@@ -1,0 +1,12 @@
+h1{
+    color: black;
+}
+
+img{
+    width: 200px;
+    height: auto;
+}
+
+table,th,td{
+    border: 2px solid;
+}
